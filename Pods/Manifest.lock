@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - GSImageViewerController (1.6.0)
+  - PromiseKit (6.2.8):
+    - PromiseKit/CorePromise (= 6.2.8)
+    - PromiseKit/Foundation (= 6.2.8)
+    - PromiseKit/UIKit (= 6.2.8)
+  - PromiseKit/CorePromise (6.2.8)
+  - PromiseKit/Foundation (6.2.8):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.2.8):
+    - PromiseKit/CorePromise
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage (~> 3.5)
+  - GSImageViewerController
+  - PromiseKit (~> 6.2.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - GSImageViewerController
+    - PromiseKit
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  GSImageViewerController: 397f8954afac8bd1c3a75c630e3c4ab4c4a4dfe3
+  PromiseKit: 6788ce1a0ed5448b83d4aaf56b9fc49fb7647d32
+
+PODFILE CHECKSUM: 195d2c2c74d0d8bf97e36ace9f694a0035d1d958
+
+COCOAPODS: 1.5.3

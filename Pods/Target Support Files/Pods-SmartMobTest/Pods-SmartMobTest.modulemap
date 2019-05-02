@@ -1,0 +1,6 @@
+framework module Pods_SmartMobTest {
+  umbrella header "Pods-SmartMobTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
